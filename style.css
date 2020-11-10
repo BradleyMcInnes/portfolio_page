@@ -78,7 +78,8 @@ h1 {
     border: 3px solid black;
     border-radius: 5px;
     padding: 10px;
-    margin: 10px;   
+    margin: 10px; 
+    text-align: center;
 }
 
 .project-tile a {
@@ -89,7 +90,6 @@ h1 {
   height: 250px;
   width: 300px; 
   object-fit: cover;
-  align-items: center;
 }
 
 .project-desc {
